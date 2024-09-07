@@ -1,0 +1,622 @@
+.full-width-header .rs-header .menu-area .logo-area img {
+    max-height: 55px;
+}
+
+.nivoSlider {
+    height: 550px !important;
+}
+
+.rs-services.services-main-home .services-item .services-wrap .services-content .service-inner .icon-top {
+    background: #000000;
+}
+
+.rs-services.services-main-home .services-item .services-wrap .normarl-text-area .icon-image {
+    background: #000000;
+}
+
+
+/* new css add */
+::-moz-selection {
+    background: var(--primary-color) !important;
+}
+
+::selection {
+    background: var(--primary-color) !important;
+    color: #000000 !important;
+}
+
+/* common css start*/
+:root {
+    --primary-color: #45ff01;
+    --secondary-color: #6CFF01;
+}
+
+/* common css end */
+
+/* top header start*/
+.full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-contact .rs-contact-info li i {
+    color: var(--primary-color);
+}
+
+.full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-contact .rs-contact-info li a:hover {
+    color: var(--primary-color);
+}
+
+.full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-sl-share .clearfix .opening em i {
+    color: var(--primary-color);
+}
+
+.full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-sl-share .clearfix li a i:hover {
+    color: var(--primary-color);
+}
+
+/* top header  end */
+
+/* nabar start */
+.menu-area {
+    background: #000 !important;
+}
+
+.mobile-navbar-menu {
+    background: #000 !important;
+}
+
+.full-width-header .right_menu_togle .close-btn .nav-close .line span {
+    background: white !important;
+}
+
+.full-width-header .mobile-navbar-menu span.submenu-button:before,
+.full-width-header .mobile-navbar-menu span.submenu-button:after {
+    background: white !important;
+}
+
+.sub-menu {
+    background: #000 !important;
+}
+
+.full-width-header .rs-header .menu-area .logo-area img {
+    margin-left: -80px;
+    max-height: 155px !important;
+}
+
+.full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a:hover {
+    color: var(--primary-color) !important;
+}
+
+.full-width-header .rs-header .menu-area .rs-menu-area {
+    margin-right: 0px !important;
+}
+
+.full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li {
+    margin-right: 20px !important;
+
+}
+
+.full-width-header .rs-header .expand-btn-inner ul .search-parent a i:hover {
+    color: var(--primary-color) !important;
+}
+
+.full-width-header .rs-header .expand-btn-inner ul .btn-quote .quote-button {
+    background: var(--primary-color) !important;
+}
+
+.full-width-header .rs-header .expand-btn-inner ul .btn-quote .quote-button:hover {
+    background: black !important;
+}
+
+.nav-menu li a:hover {
+    color: var(--primary-color) !important;
+}
+
+.nav-menu li a {
+    color: white !important;
+}
+
+.full-width-header .right_menu_togle .canvas-contact .address-area .address-list .info-icon i:before {
+    color: var(--primary-color) !important;
+}
+
+.full-width-header .right_menu_togle .canvas-contact .address-area .address-list .info-content .title {
+    color: white !important;
+}
+
+.full-width-header .right_menu_togle .canvas-contact .address-area .address-list .info-content em {
+    color: white !important;
+}
+
+.full-width-header .right_menu_togle .canvas-contact .address-area .address-list .info-content em a {
+    color: white !important;
+}
+
+.full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a {
+    font-size: 15px !important;
+}
+
+/* nabar end */
+
+/* banner section start */
+.rs-slider.rs-slider-style2.rs-slider-style4 .container .content-part .sl-subtitle {
+    color: var(--primary-color);
+}
+
+.readon.more {
+    background: var(--primary-color) !important;
+}
+
+.readon.more:hover {
+    background: black !important;
+}
+
+.rs-services.services-style2 .services-box.services-yellow-box {
+    background: var(--primary-color) !important;
+}
+
+.rs-services.services-style2 .services-box .services-content .title {
+    font-size: 17px !important;
+}
+
+.rs-slider .nivo-directionNav>a.nivo-prevNav,
+.rs-slider .nivo-directionNav>a.nivo-nextNav {
+    background: var(--primary-color) !important;
+}
+
+.rs-slider .nivo-directionNav>a.nivo-prevNav:hover,
+.rs-slider .nivo-directionNav>a.nivo-nextNav:hover {
+    background: black !important;
+}
+
+.rs-slider .nivo-directionNav>a.nivo-nextNav {
+    top: 58% !important;
+}
+
+/* banner section end */
+
+/* why choose us section start  */
+.sec-title2 .sub-text {
+
+    color: var(--primary-color) !important;
+}
+
+.team_work_content p {
+    max-height: 400px !important;
+    overflow-y: scroll !important;
+}
+
+/* why choose us section end */
+
+/* what we do section start  */
+.what-we-do p {
+    max-height: 400px !important;
+    overflow-y: scroll !important;
+
+}
+
+/* what we do section end   */
+
+/* testimonial page start  */
+
+.rs-testimonial.testimonial-style1 .testi-item-content .slider .slick-arrow {
+    background: var(--primary-color) !important;
+}
+
+.rs-testimonial.testimonial-style1 .testi-item-content .slider .slick-arrow:hover {
+    background: black !important;
+}
+
+.rs-team.team-style1 .vertical-widget-content .slick-part .slider .slick-arrow {
+    background: var(--primary-color) !important;
+}
+
+.rs-team.team-style1 .vertical-widget-content .slick-part .slider .slick-arrow:hover {
+    background: black !important;
+}
+
+.rs-team.team-style1 .vertical-widget-content .slick-part .slider.slider-for .team-inner-wrap .team-content .title a:hover {
+    color: var(--primary-color) !important;
+}
+
+/* testimonial page end */
+
+/* contact page start  */
+.rs-contact.contact-style1 .contact-box-item .contact-box .content-text .title a:hover {
+    color: var(--primary-color) !important;
+}
+
+.rs-contact.contact-style1 .contact-box-item .contact-box .content-text .services-txt a:hover {
+    color: var(--primary-color) !important;
+}
+
+/* contact page end */
+
+/* blog page start  */
+.rs-inner-blog .blog-item .blog-content .blog-title a:hover {
+    color: var(--primary-color) !important;
+}
+
+.rs-inner-blog .blog-item .blog-content .blog-meta .btm-cate li .author i {
+    color: var(--primary-color) !important;
+}
+
+.rs-inner-blog .blog-item .blog-content .blog-meta .btm-cate li .blog-date i {
+    color: var(--primary-color) !important;
+}
+
+.rs-inner-blog .widget-area .widget-title .title:after {
+    background: var(--primary-color) !important;
+
+}
+
+.rs-inner-blog .widget-area .recent-posts .recent-post-widget .post-desc .date-post i:before {
+    color: var(--primary-color) !important;
+}
+
+.rs-inner-blog .widget-area .recent-posts .recent-post-widget .post-desc a:hover {
+    color: var(--primary-color) !important;
+}
+
+.rs-inner-blog .widget-area .categories ul li a:hover {
+    color: var(--primary-color) !important;
+}
+
+/* blog page end */
+
+/* carrer page start  */
+.carrer_title {
+    background-color: var(--primary-color) !important;
+    width: 100%;
+    height: auto;
+}
+
+.about-us,
+.job-listings,
+.testimonials,
+.benefits {
+    padding: 40px 0;
+}
+
+.carrer_title a {
+
+    padding: 10px;
+    color: #000 !important;
+
+}
+
+.carrer_title {
+    border-radius: 5px;
+    color: var(--primary-color) !important;
+}
+
+.carrer_heading {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #000 !important;
+}
+
+.carrer_heading:hover {
+    color: var(--primary-color) !important;
+}
+
+p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.job {
+    background: #f4f4f4;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-left: 5px solid var(--primary-color) !important;
+}
+
+.job h3 {
+    margin-top: 0;
+    color: #000 !important;
+}
+
+.apply-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: var(--primary-color) !important;
+    color: #000;
+    text-decoration: none;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.apply-btn:hover {
+    background: #000 !important;
+    color: white !important;
+}
+
+/* Modal Styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 400px;
+    text-align: center;
+    position: relative;
+}
+
+#close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.drop-area {
+    border: 2px dashed #003366;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.drop-area:hover {
+    background-color: #e0e0e0;
+}
+
+.file-input {
+    display: none;
+}
+
+.drop-label {
+    cursor: pointer;
+    color: #003366;
+}
+
+.submit-btn {
+    background-color: #003366;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.submit-btn:hover {
+    background-color: #005599;
+}
+
+.testimonial {
+    background: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-left: 5px solid #003366;
+}
+
+.testimonial span {
+    display: block;
+    margin-top: 10px;
+    font-style: italic;
+    color: #666;
+}
+
+.benefits ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.benefits li {
+    background: url('checkmark.png') no-repeat left center;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+
+.footer {
+    background: #003366;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+}
+
+/* carrer page end */
+
+/* ============================
+      Our Team start
+================================ */
+.main_teaching_team {
+    display: flex;
+    justify-content: center;
+}
+
+.member_image {
+    margin-top: 50px;
+}
+
+.member_image img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+/* .teacher_info {
+    height: 70px;
+} */
+
+
+.teacher_info {
+    margin-top: 0px;
+}
+
+.teacher_info h5 {
+    margin: 0px;
+    font-size: 14px;
+    font-weight: 600;
+    color: black !important;
+}
+
+.teacher_info p {
+    margin: 0px;
+    font-size: 14PX;
+    color: black !important;
+}
+
+.teacher_info span {
+
+    font-size: 13PX;
+    color: black !important;
+}
+
+.main_teaching_team {
+    margin: 30PX 0PX;
+}
+
+/* .back_teacher_info {
+    margin: 150px 20px;
+}
+
+.back_teacher_info h5 {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--white-color);
+}
+
+.back_teacher_info p {
+    font-size: 12PX;
+    color: var(--white-color);
+} */
+
+.department_title {
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.department_title h2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: var(--blue-color);
+}
+
+.common_teaching_team {
+    padding-bottom: 50px;
+}
+
+.common_teaching_team .flipcard {
+    margin: 10px 0px;
+}
+
+.face-back {
+    transform: rotateY(180deg);
+    background-color: var(--blue-color);
+    overflow-y: auto !important;
+}
+
+.principale_massage_title {
+    text-align: center;
+}
+
+.department_title {
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.main_teaching_team {
+    margin: 30PX 0PX;
+}
+
+.main_teaching_team {
+    display: flex;
+    justify-content: center;
+}
+
+.main_teaching_team {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-content: center;
+}
+
+.flipcard {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    color: #ecf0f1;
+    border-radius: 0.8rem;
+    font-size: 1.2rem;
+}
+
+.face {
+    /* background: var(--primary-color) !important; */
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 0.8rem;
+    transition: transform 0.5s ease-in-out;
+    backface-visibility: hidden;
+}
+
+.member_image {
+    margin-top: 50px;
+}
+
+.teacher_info {
+    margin-top: 10px;
+}
+
+/* 
+.teacher_info {
+    height: 70px;
+} */
+
+/* ============================
+      Our Team End
+================================ */
+/* footer start  */
+#scrollUp i {
+    background: var(--primary-color) !important;
+}
+
+.rs-footer.footer-main-home .footer-top .address-widget li i {
+    color: var(--primary-color) !important;
+}
+
+.rs-footer.footer-main-home .footer-top .address-widget li .desc a:hover {
+    color: var(--primary-color) !important;
+}
+
+.rs-footer.footer-main-home .footer-top .footer-social li a i:hover {
+    color: var(--primary-color) !important;
+}
+
+.rs-footer.footer-main-home .footer-top .site-map li a:before {
+    color: var(--primary-color) !important;
+}
+
+.rs-footer.footer-main-home .footer-top .site-map li a:hover {
+    color: var(--primary-color) !important;
+}
+
+.rs-footer.footer-main-home .footer-bottom .copy-right-menu li a:hover {
+    color: var(--primary-color) !important;
+}
+
+.rs-footer.footer-main-home .footer-bottom .copyright p a:hover {
+    color: var(--primary-color) !important;
+}
+
+.rs-footer.footer-main-home .footer-bottom .copy-right-menu li:before {
+    background: var(--primary-color) !important;
+}
+
+/* footer end */
