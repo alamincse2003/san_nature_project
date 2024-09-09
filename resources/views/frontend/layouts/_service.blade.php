@@ -1,24 +1,24 @@
 @extends('frontend.layouts.master')
-@section('title','Service Page')
-@section('service','active')
+@section('title', 'Service Page')
+@section('service', 'active')
 @section('content')
-<section class="container">
-    <h2 class="text-center mt-5">Our Services at a GLANCE</h2>
-    <div>
-        @php 
-            $service_manager = App\Models\ServiceManager::get()->first();
-        @endphp
+    <section class="container">
+        <h2 class="text-center mt-5">Our Services at a GLANCE</h2>
         <div>
-            <p>{!! $service_manager -> content !!}</p>
-           
-        </div>
-    </div>
-</section>
+            @php
+                $service_manager = App\Models\ServiceManager::get()->first();
+            @endphp
+            <div>
+                <p>{!! $service_manager->content !!}</p>
 
-@endsection 
+            </div>
+        </div>
+    </section>
+
+@endsection
 
 {{-- ============================ --}}
- {{-- @php
+{{-- @php
 $services = \App\Models\Page::where('page_category','service')->where('status','active')->limit(3)->get();
 @endphp
 <div class="rs-services services-main-home gray-bg pt-120 pb-120 md-pt-80 md-pb-80">
@@ -34,8 +34,8 @@ What We Do
 </h2>
 </div>
 <div class="row">
-    @foreach($services as $key => $service)
-    @if($service->photo)
+    @foreach ($services as $key => $service)
+    @if ($service->photo)
     <div class="col-xl-4 col-md-6 mb-30">
         <div class="services-item">
             <div class="services-wrap">

@@ -1,6 +1,6 @@
 @extends('backend.layouts.master')
-@section('title', 'All Project')
-@section('projectList', 'active')
+@section('title', 'COE')
+@section('coe', 'active')
 @section('vendorCSS')
     <link rel="stylesheet" type="text/css" href="{{ asset('app-assets/vendors/css/tables/datatable/datatables.min.css') }}">
     <script src="https://cdn.ckeditor.com/ckeditor5/40.0.0/classic/ckeditor.js"></script>

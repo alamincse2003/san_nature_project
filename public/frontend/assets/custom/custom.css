@@ -170,6 +170,11 @@
 }
 
 /* banner section end */
+/* about us section start  */
+.sec-title p {
+    text-align: justify !important;
+}
+/* about us section end */
 
 /* why choose us section start  */
 .sec-title2 .sub-text {

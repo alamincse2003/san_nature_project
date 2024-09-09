@@ -6834,7 +6834,7 @@ body .search-modal .close:hover {
     overflow: hidden;
 }
 
-.rs-gallery.gallery-style1 .gallery-item .gallery-icon a:before {
+/* .rs-gallery.gallery-style1 .gallery-item .gallery-icon a:before {
     content: "+";
     position: absolute;
     left: 50%;
@@ -6860,7 +6860,7 @@ body .search-modal .close:hover {
     opacity: 0;
     visibility: hidden;
     transition: 0.3s;
-}
+} */
 
 .rs-gallery.gallery-style1 .gallery-item:hover .gallery-icon a:before {
     visibility: visible;
